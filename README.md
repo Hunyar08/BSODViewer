@@ -13,6 +13,9 @@ A native Windows desktop utility built with C++, Win32, and Windows Common Contr
 
 Guidance is heuristic, not a guaranteed root-cause finding. Full kernel dumps are detected but not decoded. The app does not upload dumps or change system settings. Reading protected files may require running it as administrator.
 
+## Looks
+<img width="1145" height="790" alt="image" src="https://github.com/user-attachments/assets/36295810-4252-4324-80c5-0790df717130" />
+
 ## Build
 
 Install Visual Studio with the **Desktop development with C++** workload and CMake, then run in this folder:
