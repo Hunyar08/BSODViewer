@@ -1,0 +1,1 @@
+#define IDI_BSOD_VIEWER 101
