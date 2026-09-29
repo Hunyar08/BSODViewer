@@ -11,7 +11,7 @@ A native Windows desktop utility built with C++, Win32, and Windows Common Contr
 - Inspects minidump headers and process exception records with `DbgHelp`; links a dump to a bugcheck event only when its path or timestamp supports the match.
 - Explains common stop codes and offers practical troubleshooting steps.
 
-Guidance is heuristic, not a guaranteed root-cause finding. Full kernel dumps are detected but not decoded. The app does not upload dumps or change system settings. Reading protected files may require running it as administrator.
+Guidance is practical, not a guaranteed root-cause finding. Full kernel dumps are detected but not decoded. The app does not upload dumps or change system settings. Reading protected files may require running it as administrator.
 
 ## Looks
 <img width="1145" height="790" alt="image" src="https://github.com/user-attachments/assets/36295810-4252-4324-80c5-0790df717130" />
